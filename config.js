@@ -10,7 +10,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'https://hidden-journey-8485.herokuapp.com/',
+        url: 'http://www.developmentdevelopment.com/',
         mail: {
 	    transport: 'SMTP',
       	    host: 'smtp.mandrillapp.com',
