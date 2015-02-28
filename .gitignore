@@ -1,0 +1,4 @@
+node_modules/
+.env
+.idea
+content/data/ghost-dev.db
