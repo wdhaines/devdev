@@ -12,7 +12,7 @@ config = {
     production: {
         url: 'http://www.developmentdevelopment.com/',
         mail: {
-	    transport: 'SMTP',
+	      transport: 'SMTP',
       	    host: 'smtp.mandrillapp.com',
       	    options: {
         	service: 'Mandrill',
@@ -40,7 +40,6 @@ config = {
             // Port to be passed to node's `net.Server#listen()`, for iisnode set this to `process.env.PORT`
             port: process.env.PORT
         },
-	fileStorage: false
     },
 
     // ### Development **(default)**
